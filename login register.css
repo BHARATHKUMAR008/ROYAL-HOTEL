@@ -1,4 +1,3 @@
-
 *
 {
     margin: 0;
@@ -91,8 +90,7 @@ input[type=text]
     border-bottom: solid 1px;
     border-color: #04bfe6;
     background: none;
-    outline:none;
-    
+    outline: none;
 }
 input[type=text]:hover,
 input[type=email]:hover,
@@ -110,7 +108,6 @@ input[type=text]:hover
     border-color: #04bfe6;
     background: none;
     color: #fff;
-   
     
 }
 input[type=submit]
@@ -214,15 +211,17 @@ section .div{
    
     padding:  50px ;
     margin-bottom: 30px;
+   
 }
 section .div h2{
-    font-size: 1.5em;
-    display: none;
+    font-size: 1em;
+   display: none;
 }
 section .form{
     font-size: 1.5em;
     padding: 10px;
 }
+
 section .imgbx
 {
     max-width: 100%;
@@ -239,4 +238,5 @@ section .imgbx img
 }
 
 }
+
 
