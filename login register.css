@@ -91,6 +91,7 @@ input[type=text]
     border-bottom: solid 1px;
     border-color: #04bfe6;
     background: none;
+    outline:none;
     
 }
 input[type=text]:hover,
